@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj": {}
+    "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj": {}
   },
   "projects": {
-    "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj": {
+    "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj",
+        "projectUniqueName": "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj",
         "projectName": "Assignment_33",
-        "projectPath": "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj",
+        "projectPath": "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_33\\Assignment_33.csproj",
         "packagesPath": "C:\\Users\\phams\\.nuget\\packages\\",
-        "outputPath": "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_33\\obj\\",
+        "outputPath": "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_33\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phams\\AppData\\Roaming\\NuGet\\NuGet.Config",

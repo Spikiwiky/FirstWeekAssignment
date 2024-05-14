@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_15\\Assignment_15.csproj",
+      "projectUniqueName": "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_15\\Assignment_15.csproj",
       "projectName": "Assignment_15",
-      "projectPath": "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_15\\Assignment_15.csproj",
+      "projectPath": "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_15\\Assignment_15.csproj",
       "packagesPath": "C:\\Users\\phams\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT Semesters\\Ki 5\\assignment\\first week\\First_Week_ Assignment\\Assignment_15\\obj\\",
+      "outputPath": "D:\\FPT Semesters\\Ki 5\\assignment\\First_Week_ Assignment\\Assignment_15\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\phams\\AppData\\Roaming\\NuGet\\NuGet.Config",
