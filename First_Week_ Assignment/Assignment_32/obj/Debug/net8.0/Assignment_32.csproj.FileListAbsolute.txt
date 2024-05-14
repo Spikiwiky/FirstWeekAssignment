@@ -1,0 +1,14 @@
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\bin\Debug\net8.0\Assignment_32.exe
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\bin\Debug\net8.0\Assignment_32.deps.json
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\bin\Debug\net8.0\Assignment_32.runtimeconfig.json
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\bin\Debug\net8.0\Assignment_32.dll
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\bin\Debug\net8.0\Assignment_32.pdb
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\Assignment_32.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\Assignment_32.AssemblyInfoInputs.cache
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\Assignment_32.AssemblyInfo.cs
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\Assignment_32.csproj.CoreCompileInputs.cache
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\Assignment_32.dll
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\refint\Assignment_32.dll
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\Assignment_32.pdb
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\Assignment_32.genruntimeconfig.cache
+D:\FPT Semesters\Ki 5\assignment\first week\First_Week_ Assignment\Assignment_32\obj\Debug\net8.0\ref\Assignment_32.dll
